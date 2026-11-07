@@ -44,6 +44,9 @@
     <td><img src="img/readme/stage-watcher.jpg" alt="A white house with a porch at dusk, a mailbox in the foreground."><br><b>CASE 09 · The Watcher</b><br><i>Welcome to the neighbourhood.</i></td>
     <td><img src="img/readme/stage-jungle.jpg" alt="Two aircraft seats on the bank of a misty jungle river."><br><b>CASE 10 · Downstream</b><br><i>Follow the water.</i></td>
   </tr>
+  <tr>
+    <td><img src="img/readme/stage-palace.jpg" alt="A dark palace on a hill under a full moon, a tall figure standing in one lit window above an open door."><br><b>CASE 11 · One Night</b><br><i>Don't wave back.</i></td>
+  </tr>
 </table>
 
 <p align="center"><b>More cases are under investigation.</b> New stories will be added in future updates.</p>
